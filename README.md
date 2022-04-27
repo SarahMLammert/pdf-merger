@@ -1,2 +1,2 @@
 # pdf-merger
- Combines two pdfs
+ Combines multiple pdfs
